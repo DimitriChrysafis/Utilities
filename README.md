@@ -1,1 +1,1 @@
-# Welcome to DimiUtilities, where you can find random things I made for fun 😉
+# Random Utilities I made for fun in c++;
