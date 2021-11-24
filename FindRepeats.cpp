@@ -24,7 +24,7 @@ str1[j] = '\0';
 void removePeriod(string& str1, int len){
     unsigned long long int j = 0;
     for (unsigned long long int i = 0; i < len; i++){
-        if (str1[i] == ','){
+        if (str1[i] == '.'){
             continue;
         }
         else{
